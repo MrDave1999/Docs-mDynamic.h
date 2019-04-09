@@ -1,6 +1,6 @@
 # mDynamic.h
 
-Antes de leer esta documentación se recomienda visitar este repositorio: [mDynamic.h](https://github.com/MrDave1999/mDynamic.h).
+Esta micro-documentación sólo es válida sí usas esta versión del include: [mDynamic.h - v2.0](https://github.com/MrDave1999/mDynamic.h/releases/tag/v2.0)
 
 Anteriormente se había explicado de como declarar un array de tipo "union" pero como variable global.
 
